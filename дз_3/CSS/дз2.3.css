@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    color:rgb(4, 4, 71);
+    font-family: monospace;
+    font-size: 30px;
+}
+textarea {
+    width: 50%;
+    resize: none;
+    border: 2px solid rgb(145, 152, 172);
+}
+div {
+    width: 100%;
+    margin: auto;
+}
+input {
+    border: 2px solid rgb(145, 152, 172);
+}
+p {
+    color:rgb(8, 8, 114);
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 600;
+}
+label {
+    color: rgb(8, 8, 114);
+    font-family: monospace;
+    font-size: 17px;
+}
+button {
+    background-color: rgba(171, 181, 221, 0.648);
+    color:rgb(5, 5, 81);
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 20px;
+    border: 2px solid rgb(5, 5, 81);
+}
+form {
+    width: 40%;
+    margin: auto;
+    border-radius: 5%;
+    padding: 20px;
+    background-color: aliceblue;
+    box-shadow: 0 10px 20px 0px rgba(0, 0, 0, .2);
+}
+body {
+    background-color: rgb(215, 215, 253);
+}

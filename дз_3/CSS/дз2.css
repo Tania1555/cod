@@ -1,0 +1,15 @@
+table {
+    border: 2px solid rgb(55, 46, 184);
+    border-collapse: collapse;
+    background-color: rgba(116, 174, 244, 0.411);
+    margin: auto;
+}
+td, th {
+    border: 2px solid rgb(55, 46, 184);
+    color: rgb(55, 46, 184);
+    text-align: center;
+    padding: 5px;
+    font-size: 25px;
+}
+
+
